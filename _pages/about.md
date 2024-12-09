@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "roboticist in the making📈"
+title: "roboticist in the making 📈"
 author_profile: true
 redirect_from: 
   - /about/
