@@ -271,8 +271,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -301,7 +301,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  #- jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
