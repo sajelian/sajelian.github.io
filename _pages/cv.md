@@ -22,7 +22,7 @@ Experience
   <!-- * Duties includes: Improving mobile robot localization. -->
   * Supervisor: <a href="https://de.linkedin.com/in/karl-schulz-angsa" target="_blank">Karl Schulz</a>
 
-* Nov. 2023 - May 2024: **Hardware Engineer, Vispiron Rotec**
+* Nov. 2023 - May 2024: **Hardware Engineering Working Student, Vispiron Rotec**
   * Duties included: **Identifying and resolving faults in measurement hardware.**
   * Supervisor: <a href="https://www.linkedin.com/in/aaalexandre-heil-fran%C3%A7a/" target="_blank">Alexandre Heil França</a>
 
