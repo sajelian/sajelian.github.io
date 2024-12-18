@@ -45,7 +45,7 @@ Soft Skills
 ======
 * Perseverance
 * Creativity
-* Team spirit
+* Team Spirit
 * Problem Solving
 
 <!-- Publications
